@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Floor2ITFP.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Floor2ITFP 1.unity
+    guid: cc8b25afa751b5846a65b074c505993f
+  - enabled: 1
+    path: Assets/Scenes/Floor2ITFP 2.unity
+    guid: f597dcc5d1f213d42bcf4af012dc6e4d
+  - enabled: 1
+    path: Assets/Scenes/Floor2ITFP 3.unity
+    guid: bde714903f08a0f4ca495a3004847d7a
+  - enabled: 1
+    path: Assets/Scenes/Floor2ITFP 4.unity
+    guid: 52f4b9ef0aaa4f04d86978553e751a83
   m_configObjects: {}
